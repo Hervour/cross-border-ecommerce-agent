@@ -1,0 +1,9 @@
+.git
+.env
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+tests/
+shopee_mass_upload_demo.xlsx

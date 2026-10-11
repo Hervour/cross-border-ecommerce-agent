@@ -1,0 +1,22 @@
+{
+  "SHOPEE-SKU-CAMP-BEIGE": {
+    "shopee_sku": "SHOPEE-SKU-CAMP-BEIGE",
+    "supplier_name": "露营椅工厂店",
+    "supplier_url": "https://detail.1688.com/offer/123456789.html",
+    "supplier_spec": "米白色 标准款 铝合金支架",
+    "supplier_sku_id": "CAMP-BEIGE-STD",
+    "purchase_cost_cny": 58.0,
+    "shipping_cny": 10.0,
+    "notes": "下单后联系客服备注无品牌包装"
+  },
+  "SHOPEE-SKU-CAMP-GREEN": {
+    "shopee_sku": "SHOPEE-SKU-CAMP-GREEN",
+    "supplier_name": "露营椅工厂店",
+    "supplier_url": "https://detail.1688.com/offer/123456789.html",
+    "supplier_spec": "军绿色 加宽款 带侧边网袋",
+    "supplier_sku_id": "CAMP-GREEN-WIDE",
+    "purchase_cost_cny": 69.0,
+    "shipping_cny": 10.0,
+    "notes": "加宽款需确认包装尺寸"
+  }
+}

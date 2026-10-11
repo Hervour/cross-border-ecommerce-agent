@@ -1,0 +1,22 @@
+{
+  "aliexpress": [
+    {
+      "keywords": ["camping chair", "folding chair", "outdoor chair", "moon chair", "beach chair"],
+      "category_id": 100017,
+      "attributes": {
+        "material": "Aluminum Alloy",
+        "style": "Folding"
+      }
+    }
+  ],
+  "tiktok_shop": [
+    {
+      "keywords": ["camping chair", "folding chair", "outdoor chair", "moon chair", "beach chair"],
+      "category_id": "601234",
+      "attributes": [
+        {"name": "Material", "value": "Aluminum Alloy"},
+        {"name": "Style", "value": "Folding"}
+      ]
+    }
+  ]
+}

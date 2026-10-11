@@ -1,0 +1,12 @@
+services:
+  fulfillment:
+    build: .
+    container_name: crossborder-fulfillment
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./mock_data:/app/mock_data:ro
